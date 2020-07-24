@@ -130,3 +130,5 @@ MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = "/media/"
 
 LOGIN_URL = '/rango/login/'
+
+SESSION_COOKIE_AGE = 1209600  # in seconds
